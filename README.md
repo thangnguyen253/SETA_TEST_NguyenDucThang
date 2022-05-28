@@ -2,7 +2,7 @@
 
 ## jasmine_testcases
 
-- includes source code of test I and its test cases
+- includes source code of Test I and its test cases
 - Using jasmine library to write test cases
 - /lib: contains jasmine library
 - /spec: contains test cases: MostAppearLengthSpec is for test I.1 and SumOnTopTwoSpec is for test I.2
@@ -11,7 +11,7 @@
 
 ## post-management
 
-- includes source code of test II
+- includes source code of Test II
 - Using react-bootstrap for UI
 - /actions: contains action files of redux
 - /components: contains components: Paginating for pagination and PostForm for adding new post
