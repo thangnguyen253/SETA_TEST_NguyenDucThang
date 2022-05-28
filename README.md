@@ -2,16 +2,16 @@
 
 ## jasmine_testcases
 
-- includes source code of Test I and its test cases
+- includes source code of `Test I` and its test cases
 - Using jasmine library to write test cases
 - /lib: contains jasmine library
-- /spec: contains test cases: MostAppearLengthSpec is for test I.1 and SumOnTopTwoSpec is for test I.2
-- /src: contains source code: MostAppearLength is for test I.1 and SumOnTopTwo is for test I.2
+- /spec: contains test cases: MostAppearLengthSpec is for `Test I.1` and SumOnTopTwoSpec is for `Test I.2`
+- /src: contains source code: MostAppearLength is for `Test I.1` and SumOnTopTwo is for `Test I.2`
 - index.html: run this file to see the test cases' results
 
 ## post-management
 
-- includes source code of Test II
+- includes source code of `Test II`
 - Using react-bootstrap for UI
 - /actions: contains action files of redux
 - /components: contains components: Paginating for pagination and PostForm for adding new post
