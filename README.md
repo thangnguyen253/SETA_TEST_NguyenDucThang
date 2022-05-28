@@ -19,6 +19,8 @@
 - /reducers: contains reducer files of redux
 - store.js: create store redux
 
+
+--------------------------------------------------------------------------------------------------------------------------
 # 2.Specification
 
 ## `Test I.1`
@@ -33,6 +35,10 @@
 
 ### Usage: run the index.html file in jasmine_testcases, look for the test named "Test Most Appear Length" to see its test cases.
 
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 ## `Test I.2`
 
 ### Question: Provide an array of integers, eg: [1, 4, 2, 3, 5]. Write a function to find sum of integers on top 2. Writing the unit test function and provide some test-cases. The result for the example array is 9.
@@ -44,6 +50,9 @@
 ### Time Complexity: O(n)
 
 ### Usage: run the index.html file in jasmine_testcases, look for the test named "Test Sum On Top Two" to see its test cases.
+
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ## `Test II: React`
 
